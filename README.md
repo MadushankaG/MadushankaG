@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @MadushankaG
+- 👀 I'm interested in software engineering and learning new concepts in the IT sector.
+- 🌱 I'm currently learning various programming languages, software development methodologies, and software design principles.
+- 💞️ I'm looking to collaborate on new projects where I can apply my engineering background and enhance my software engineering skills.
+- 📫 You can reach me through email at sshasitha96@gmail.com or connect with me on LinkedIn www.linkedin.com/in/madushanka1996
